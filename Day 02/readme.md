@@ -1,7 +1,7 @@
 🚀 **Day 2 of 30 Days of Python** 🌟  
 
 Day 2 was all about diving deeper into Python!  
-✅ Practiced working with strings and different operations on them.  
+✅ Practiced working with different operations on them.  
 ✅ Explored some new concepts that make Python fun to learn.  
 
 You can follow my progress here:  
